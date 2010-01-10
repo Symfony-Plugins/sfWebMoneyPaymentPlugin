@@ -1,0 +1,4 @@
+all:
+  #sfWebMoneyPaymentPlugin
+  app_sf_webmoney_payment_plugin:
+    wallet: U111111111111
